@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>swamp_bg_detail_object_1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{237,161}</string>
+                <key>spriteSourceSize</key>
+                <string>{237,161}</string>
+                <key>textureRect</key>
+                <string>{{375,989},{237,161}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 0 1 3 5 0 2 3 0 3 4 5 0 5 6</string>
+                <key>vertices</key>
+                <string>237 124 237 161 0 161 0 88 80 2 107 0 175 0</string>
+                <key>verticesUV</key>
+                <string>612 1113 612 1150 375 1150 375 1077 455 991 482 989 550 989</string>
+            </dict>
+            <key>swamp_bg_detail_object_2.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{206,256}</string>
+                <key>spriteSourceSize</key>
+                <string>{206,256}</string>
+                <key>textureRect</key>
+                <string>{{388,682},{206,256}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>8 9 10 0 8 10 6 7 8 3 4 5 3 5 6 0 3 6 0 1 2 0 2 3 0 6 8</string>
+                <key>vertices</key>
+                <string>156 93 206 65 206 113 146 174 124 256 61 256 46 161 0 143 0 57 45 0 59 0</string>
+                <key>verticesUV</key>
+                <string>544 775 594 747 594 795 534 856 512 938 449 938 434 843 388 825 388 739 433 682 447 682</string>
+            </dict>
+            <key>swamp_bg_detail_object_3.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,0}</string>
+                <key>spriteSize</key>
+                <string>{142,256}</string>
+                <key>spriteSourceSize</key>
+                <string>{143,256}</string>
+                <key>textureRect</key>
+                <string>{{679,264},{142,256}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>8 0 1 4 5 6 3 4 6 3 6 7 3 7 8 1 2 3 8 1 3 0 8 9</string>
+                <key>vertices</key>
+                <string>62 1 142 149 142 174 99 172 81 253 72 256 52 256 0 130 0 100 49 0</string>
+                <key>verticesUV</key>
+                <string>741 265 821 413 821 438 778 436 760 517 751 520 731 520 679 394 679 364 728 264</string>
+            </dict>
+            <key>swamp_bg_detail_object_4.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-0.5}</string>
+                <key>spriteSize</key>
+                <string>{218,211}</string>
+                <key>spriteSourceSize</key>
+                <string>{218,212}</string>
+                <key>textureRect</key>
+                <string>{{538,791},{218,211}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 0 1 3 8 9 7 3 6 4 5 6 3 4 6 7 8 3 2 3 9 2 9 0 0 9 10</string>
+                <key>vertices</key>
+                <string>218 17 214 212 149 212 55 142 55 203 23 209 1 171 0 68 22 55 169 1 210 1</string>
+                <key>verticesUV</key>
+                <string>756 807 752 1002 687 1002 593 932 593 993 561 999 539 961 538 858 560 845 707 791 748 791</string>
+            </dict>
+            <key>swamp_bg_detail_object_5.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{337,216}</string>
+                <key>spriteSourceSize</key>
+                <string>{337,216}</string>
+                <key>textureRect</key>
+                <string>{{108,134},{337,216}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>9 10 11 6 9 11 6 7 8 6 8 9 5 6 11 2 3 4 0 2 4 0 4 5 0 1 2 0 5 11</string>
+                <key>vertices</key>
+                <string>251 61 337 19 337 202 290 214 273 211 210 110 107 84 90 216 37 216 0 62 0 0 124 0</string>
+                <key>verticesUV</key>
+                <string>359 195 445 153 445 336 398 348 381 345 318 244 215 218 198 350 145 350 108 196 108 134 232 134</string>
+            </dict>
+            <key>swamp_bg_empty.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{1,1}</string>
+                <key>spriteSourceSize</key>
+                <string>{1,1}</string>
+                <key>textureRect</key>
+                <string>{{454,682},{1,1}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3</string>
+                <key>vertices</key>
+                <string>0 0 1 0 1 1 0 1</string>
+                <key>verticesUV</key>
+                <string>454 682 455 682 455 683 454 683</string>
+            </dict>
+            <key>swamp_bg_hills.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{514,126}</string>
+                <key>spriteSourceSize</key>
+                <string>{514,126}</string>
+                <key>textureRect</key>
+                <string>{{108,4},{514,126}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>6 7 8 4 5 6 2 3 4 1 4 6 1 2 4 1 6 8 0 1 8</string>
+                <key>vertices</key>
+                <string>514 48 514 126 0 126 0 44 73 85 101 45 331 45 376 0 379 0</string>
+                <key>verticesUV</key>
+                <string>622 52 622 130 108 130 108 48 181 89 209 49 439 49 484 4 487 4</string>
+            </dict>
+            <key>swamp_bg_tree_1_650px.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{1,0}</string>
+                <key>spriteSize</key>
+                <string>{157,325}</string>
+                <key>spriteSourceSize</key>
+                <string>{159,325}</string>
+                <key>textureRect</key>
+                <string>{{129,354},{157,325}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>6 7 8 3 1 2 4 5 6 3 4 1 0 1 4 0 4 6 0 6 8</string>
+                <key>vertices</key>
+                <string>159 114 127 199 122 325 39 325 2 140 2 106 45 60 45 0 109 0</string>
+                <key>verticesUV</key>
+                <string>286 468 254 553 249 679 166 679 129 494 129 460 172 414 172 354 236 354</string>
+            </dict>
+            <key>swamp_bg_tree_2_650px.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{129,325}</string>
+                <key>spriteSourceSize</key>
+                <string>{129,325}</string>
+                <key>textureRect</key>
+                <string>{{474,195},{129,325}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>7 8 9 0 7 9 2 5 6 0 6 7 5 2 3 6 1 2 6 0 1 5 3 4</string>
+                <key>vertices</key>
+                <string>93 112 129 149 129 209 100 325 0 325 0 205 27 150 4 72 13 0 90 0</string>
+                <key>verticesUV</key>
+                <string>567 307 603 344 603 404 574 520 474 520 474 400 501 345 478 267 487 195 564 195</string>
+            </dict>
+            <key>swamp_bg_tree_3_650px.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{175,325}</string>
+                <key>spriteSourceSize</key>
+                <string>{175,325}</string>
+                <key>textureRect</key>
+                <string>{{4,620},{175,325}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 10 11 0 9 10 7 8 9 1 5 6 0 1 7 1 6 7 5 2 3 5 1 2 5 3 4 0 7 9</string>
+                <key>vertices</key>
+                <string>175 112 138 196 164 227 144 325 67 325 66 324 4 216 38 177 0 123 0 85 58 0 138 0</string>
+                <key>verticesUV</key>
+                <string>179 732 142 816 168 847 148 945 71 945 70 944 8 836 42 797 4 743 4 705 62 620 142 620</string>
+            </dict>
+            <key>swamp_bg_tree_4_650px.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{182,325}</string>
+                <key>spriteSourceSize</key>
+                <string>{182,325}</string>
+                <key>textureRect</key>
+                <string>{{566,4},{182,325}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>6 7 8 4 5 6 3 4 6 0 6 8 3 6 1 3 1 2 0 1 6</string>
+                <key>vertices</key>
+                <string>182 107 126 322 125 325 31 325 0 180 12 142 60 148 62 0 139 0</string>
+                <key>verticesUV</key>
+                <string>748 111 692 326 691 329 597 329 566 184 578 146 626 152 628 4 705 4</string>
+            </dict>
+            <key>swamp_bg_tutorial_arrow.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{10,-2.5}</string>
+                <key>spriteSize</key>
+                <string>{101,129}</string>
+                <key>spriteSourceSize</key>
+                <string>{125,140}</string>
+                <key>textureRect</key>
+                <string>{{264,1057},{101,129}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 3 1 2 3 0 3 4</string>
+                <key>vertices</key>
+                <string>123 36 74 137 22 137 22 29 64 8</string>
+                <key>verticesUV</key>
+                <string>365 1085 316 1186 264 1186 264 1078 306 1057</string>
+            </dict>
+            <key>swamp_fog_1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{256,99}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,99}</string>
+                <key>textureRect</key>
+                <string>{{4,1057},{256,99}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>256 99 0 99 0 0 256 0</string>
+                <key>verticesUV</key>
+                <string>260 1156 4 1156 4 1057 260 1057</string>
+            </dict>
+            <key>swamp_grass_1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,12.5}</string>
+                <key>spriteSize</key>
+                <string>{200,46}</string>
+                <key>spriteSourceSize</key>
+                <string>{200,71}</string>
+                <key>textureRect</key>
+                <string>{{616,1079},{200,46}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>200 46 0 46 0 0 200 0</string>
+                <key>verticesUV</key>
+                <string>816 1125 616 1125 616 1079 816 1079</string>
+            </dict>
+            <key>swamp_grass_2.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,18}</string>
+                <key>spriteSize</key>
+                <string>{200,35}</string>
+                <key>spriteSourceSize</key>
+                <string>{200,71}</string>
+                <key>textureRect</key>
+                <string>{{616,1129},{200,35}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>200 35 0 35 0 0 200 0</string>
+                <key>verticesUV</key>
+                <string>816 1164 616 1164 616 1129 816 1129</string>
+            </dict>
+            <key>swamp_grass_3.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0.5}</string>
+                <key>spriteSize</key>
+                <string>{200,70}</string>
+                <key>spriteSourceSize</key>
+                <string>{200,71}</string>
+                <key>textureRect</key>
+                <string>{{270,394},{200,70}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 3 4 1 2 3 0 1 4</string>
+                <key>vertices</key>
+                <string>200 24 58 70 0 24 0 0 200 0</string>
+                <key>verticesUV</key>
+                <string>470 418 328 464 270 418 270 394 470 394</string>
+            </dict>
+            <key>swamp_grass_4.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,12.5}</string>
+                <key>spriteSize</key>
+                <string>{200,46}</string>
+                <key>spriteSourceSize</key>
+                <string>{200,71}</string>
+                <key>textureRect</key>
+                <string>{{602,742},{200,46}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 3 4 1 2 3 0 1 4</string>
+                <key>vertices</key>
+                <string>200 41 77 46 0 24 0 0 200 0</string>
+                <key>verticesUV</key>
+                <string>802 783 679 788 602 766 602 742 802 742</string>
+            </dict>
+            <key>swamp_grass_5.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0.5}</string>
+                <key>spriteSize</key>
+                <string>{200,70}</string>
+                <key>spriteSourceSize</key>
+                <string>{200,71}</string>
+                <key>textureRect</key>
+                <string>{{474,678},{200,70}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 3 4 1 2 3 0 1 4</string>
+                <key>vertices</key>
+                <string>200 24 104 70 0 24 0 0 200 0</string>
+                <key>verticesUV</key>
+                <string>674 702 578 748 474 702 474 678 674 678</string>
+            </dict>
+            <key>swamp_grass_6.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,1.5}</string>
+                <key>spriteSize</key>
+                <string>{200,68}</string>
+                <key>spriteSourceSize</key>
+                <string>{200,71}</string>
+                <key>textureRect</key>
+                <string>{{575,1006},{200,68}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 3 4 1 2 3 0 1 4</string>
+                <key>vertices</key>
+                <string>200 24 48 68 0 24 0 0 200 0</string>
+                <key>verticesUV</key>
+                <string>775 1030 623 1074 575 1030 575 1006 775 1006</string>
+            </dict>
+            <key>swamp_ground_1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{100,96}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,96}</string>
+                <key>textureRect</key>
+                <string>{{216,250},{100,96}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>100 96 0 96 0 0 100 0</string>
+                <key>verticesUV</key>
+                <string>316 346 216 346 216 250 316 250</string>
+            </dict>
+            <key>swamp_ground_2x0_1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-5}</string>
+                <key>spriteSize</key>
+                <string>{200,278}</string>
+                <key>spriteSourceSize</key>
+                <string>{200,300}</string>
+                <key>textureRect</key>
+                <string>{{184,683},{200,278}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>200 294 0 294 0 16 200 16</string>
+                <key>verticesUV</key>
+                <string>384 961 184 961 184 683 384 683</string>
+            </dict>
+            <key>swamp_ground_2x3_1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{17,17.5}</string>
+                <key>spriteSize</key>
+                <string>{216,255}</string>
+                <key>spriteSourceSize</key>
+                <string>{250,300}</string>
+                <key>textureRect</key>
+                <string>{{253,422},{216,255}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 3 4 0 2 3 0 1 2</string>
+                <key>vertices</key>
+                <string>250 259 34 260 53 138 207 22 250 5</string>
+                <key>verticesUV</key>
+                <string>469 676 253 677 272 555 426 439 469 422</string>
+            </dict>
+            <key>swamp_ground_decorations_1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,-0.5}</string>
+                <key>spriteSize</key>
+                <string>{371,49}</string>
+                <key>spriteSourceSize</key>
+                <string>{400,50}</string>
+                <key>textureRect</key>
+                <string>{{169,960},{371,49}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 1 2 4 0 1 4 6 7 8 5 6 8 10 11 12 9 10 12 14 15 16 13 14 16 19 20 21 18 19 21 17 18 21</string>
+                <key>vertices</key>
+                <string>305 25 238 50 187 38 187 6 217 6 162 40 122 40 122 18 162 18 50 33 14 33 14 21 50 21 95 28 73 28 73 16 95 16 385 13 385 24 329 24 328 3 339 1</string>
+                <key>verticesUV</key>
+                <string>460 984 393 1009 342 997 342 965 372 965 317 999 277 999 277 977 317 977 205 992 169 992 169 980 205 980 250 987 228 987 228 975 250 975 540 972 540 983 484 983 483 962 494 960</string>
+            </dict>
+            <key>swamp_ground_decorations_2.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-4,0}</string>
+                <key>spriteSize</key>
+                <string>{323,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{331,50}</string>
+                <key>textureRect</key>
+                <string>{{4,1003},{323,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>323 50 0 50 0 0 323 0</string>
+                <key>verticesUV</key>
+                <string>327 1053 4 1053 4 1003 327 1003</string>
+            </dict>
+            <key>swamp_ground_decorations_3.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{286,24}</string>
+                <key>spriteSourceSize</key>
+                <string>{300,50}</string>
+                <key>textureRect</key>
+                <string>{{108,4},{286,24}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3 5 6 7 4 5 7 9 10 11 8 9 11</string>
+                <key>vertices</key>
+                <string>183 37 7 37 7 13 183 13 250 35 208 35 208 23 250 23 293 28 275 28 275 21 293 21</string>
+                <key>verticesUV</key>
+                <string>284 28 108 28 108 4 284 4 351 26 309 26 309 14 351 14 394 19 376 19 376 12 394 12</string>
+            </dict>
+            <key>swamp_ground_decorations_4.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{2,-0.5}</string>
+                <key>spriteSize</key>
+                <string>{82,25}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,50}</string>
+                <key>textureRect</key>
+                <string>{{599,780},{82,25}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 0 1 2 0 2 4</string>
+                <key>vertices</key>
+                <string>81 22 93 28 65 38 11 33 11 13</string>
+                <key>verticesUV</key>
+                <string>669 789 681 795 653 805 599 800 599 780</string>
+            </dict>
+            <key>swamp_ground_decorations_5.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-2,-0.5}</string>
+                <key>spriteSize</key>
+                <string>{178,45}</string>
+                <key>spriteSourceSize</key>
+                <string>{200,50}</string>
+                <key>textureRect</key>
+                <string>{{324,1152},{178,45}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 1 2 4 0 1 4</string>
+                <key>vertices</key>
+                <string>187 10 187 43 27 48 9 28 31 3</string>
+                <key>verticesUV</key>
+                <string>502 1159 502 1192 342 1197 324 1177 346 1152</string>
+            </dict>
+            <key>swamp_ground_decorations_6.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{178,40}</string>
+                <key>spriteSourceSize</key>
+                <string>{200,50}</string>
+                <key>textureRect</key>
+                <string>{{4,1160},{178,40}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>189 45 11 45 11 5 189 5</string>
+                <key>verticesUV</key>
+                <string>182 1200 4 1200 4 1160 182 1160</string>
+            </dict>
+            <key>swamp_ground_pattern_1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{300,150}</string>
+                <key>spriteSourceSize</key>
+                <string>{300,150}</string>
+                <key>textureRect</key>
+                <string>{{474,524},{300,150}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>300 150 0 150 0 0 300 0</string>
+                <key>verticesUV</key>
+                <string>774 674 474 674 474 524 774 524</string>
+            </dict>
+            <key>swamp_ground_solid.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{100,100}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,100}</string>
+                <key>textureRect</key>
+                <string>{{740,160},{100,100}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>100 100 0 100 0 0 100 0</string>
+                <key>verticesUV</key>
+                <string>840 260 740 260 740 160 840 160</string>
+            </dict>
+            <key>swamp_sky_2.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{100,612}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,612}</string>
+                <key>textureRect</key>
+                <string>{{4,4},{100,612}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>100 612 0 612 0 0 100 0</string>
+                <key>verticesUV</key>
+                <string>104 616 4 616 4 4 104 4</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>realTextureFileName</key>
+            <string>bg_assets_swamp.png</string>
+            <key>size</key>
+            <string>{844,1204}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:d61fae24fb356800d4e549dcc0ef36f0:72e5d0c98eb68a654e82a97c918aec2e:9caa25d9bc493956043c29dd515856f3$</string>
+            <key>textureFileName</key>
+            <string>bg_assets_swamp.png</string>
+        </dict>
+    </dict>
+</plist>
