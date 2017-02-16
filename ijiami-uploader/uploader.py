@@ -16,8 +16,10 @@ global inputPath
 
 uploadThreadList = []
 downloadThreadList = []
+signThreadList = []
 uploadLock = threading.Lock()
 downloadLock = threading.Lock()
+signLock = threading.Lock()
 
 def loadConfig():
   global userName
@@ -201,7 +203,7 @@ def downloadTask(session, url, outputPath):
   fp = open(filePath, "wb")
   fp.write(rep.read())
 
-  print "[*] %s Download complete" % filePath
+  print "[+] %s Download complete" % filePath
   fp.close()
 
 def uploadTask(session, username, filePath):
@@ -305,15 +307,50 @@ def getFiles(inputPath):
 
   return fileList
 
+def sign(filename):
+    os.system("./sign.sh %s" % filename)
+
+def signFiles():
+    global outputPath
+
+    files = getFiles(outputPath) 
+    for filename in files:
+        if filename[-4:] == ".apk":
+            task = threading.Thread(target=sign, args=(filename,))
+            signLock.acquire()
+            signThreadList.append(task)
+            signLock.release()
+            task.start()
+
+def waitForSignThread():
+  while True:
+    isAlive = False
+    signLock.acquire()
+    for thread in signThreadList:
+      isAlive = thread.is_alive()
+      if isAlive:
+        break
+
+    signLock.release()
+    if isAlive:
+      time.sleep(1)
+    else:
+      break
+
 try:
   loadConfig()
+  os.system("rm -f %s/*" % outputPath)
   session = login(userName, password)
   firstAppId = getFirstAppId(session)
   files = getFiles(inputPath)
 
   uploadFiles(session, userName, files)
   waitForUploadThread()
+  print "[*] Waitting for Encryption..."
   checkFileToDownload(session, outputPath)
   waitForDownloadThread()
+  print "[*] Waitting for Sign..."
+  signFiles()
+  waitForSignThread()
 except Exception, msg:
   print "[-]", msg
